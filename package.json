@@ -1,0 +1,21 @@
+{
+  "name": "short.js.functions",
+  "version": "4.0.0",
+  "description": "Welcome to the official short.js github package!",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erafn/short.js.functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erafn/short.js.functions/issues"
+  },
+  "homepage": "https://github.com/erafn/short.js.functions#readme"
+}
